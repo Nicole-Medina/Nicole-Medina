@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=A165FF&center=false&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Nicole+Medina+%F0%9F%91%BB;E+tenho+22+anos.%E2%98%95)](https://git.io/typing-svg)
 
 ![Nicole GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicole-Medina&show_icons=true&theme=aura)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=aura)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicole-Medina&layout=compact&theme=aura)
 
 <center>
 
