@@ -6,9 +6,9 @@
 <br>
 
    <div align="center">
-<h4>
-Olá! Sou uma entusiasta na área de desenvolvimento com curso de ADS em andamento, e tenho me dedicado para alcançar o objetivo de me tornar uma dev fullstack! Minha paixão pela tecnologia me motiva a buscar conhecimento diariamente, me inspirando em colegas, acertando e errando, sempre em constante aprendizagem.
-</h4><br>
+
+**Olá! Sou uma entusiasta na área de desenvolvimento com curso de ADS em andamento, e tenho me dedicado para alcançar o objetivo de me tornar uma dev fullstack! Minha paixão pela tecnologia me motiva a buscar conhecimento diariamente, me inspirando em colegas, acertando e errando, sempre em constante aprendizagem.**
+<br>
 
 <div align="center">  
   <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nicole-Medina&show_icons=true&theme=aura" /> 
@@ -29,19 +29,26 @@ Olá! Sou uma entusiasta na área de desenvolvimento com curso de ADS em andamen
 
 <div>
     <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117"/>
+    <img alt="html5" src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117"/>
+    <img alt="css" src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117"/>
 </div><br>
 
-### Ferramentas complementares que utilizo!
+### Ferramentas que utilizo!
+
+<div>
+   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117"/>
+   <img alt="Visual-Studio-Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+   <img alt="Figma" src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117"/>
+</div>
+
+### Complementares!
 
 <div>  
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-    <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
+    <img alt="Krita" src="https://img.shields.io/badge/Krita-3BABFF.svg?style=for-the-badge&logo=Krita&logoColor=white"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A165FF&height=120&section=footer"/>
