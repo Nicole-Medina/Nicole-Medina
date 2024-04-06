@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=45F8D8FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A165FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=45&duration=4000&pause=1000&color=A165FF&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+eu+sou+Nicole+Medina!+%F0%9F%91%BB;Quase+22+anos+de+idade..+%E2%98%95;Moro+no+Rio+Grande+do+Sul.+%F0%9F%8D%83;E+seja+bem-vindo!+%F0%9F%91%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=45&duration=4000&pause=1000&color=27F8D3FF&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+eu+sou+Nicole+Medina!+%F0%9F%91%BB;Quase+22+anos+de+idade..+%E2%98%95;Moro+no+Rio+Grande+do+Sul.+%F0%9F%8D%83;E+seja+bem-vindo!+%F0%9F%91%BE)](https://git.io/typing-svg)
 <br>
 <br>
 
