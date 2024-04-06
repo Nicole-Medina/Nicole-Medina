@@ -28,7 +28,7 @@
 ### Principais tecnologias que uso!
 
 <div>
-    <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img alt="php" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white"/>
     <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117"/>
     <img alt="html5" src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117"/>
     <img alt="css" src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
@@ -39,16 +39,16 @@
 
 <div>
    <img alt="Windows" src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117"/>
-   <img alt="Visual-Studio-Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+   <img alt="Visual-Studio-Code" src="https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
    <img alt="Figma" src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117"/>
 </div>
 
 ### Complementares!
 
 <div>  
-    <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-    <img alt="Krita" src="https://img.shields.io/badge/Krita-3BABFF.svg?style=for-the-badge&logo=Krita&logoColor=white"/>
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-0D1117.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+    <img alt="Krita" src="https://img.shields.io/badge/Krita-0D1117.svg?style=for-the-badge&logo=Krita&logoColor=white"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A165FF&height=120&section=footer"/>
