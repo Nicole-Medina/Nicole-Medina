@@ -13,9 +13,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicole-Medina&show_icons=true&theme=tokyo-night)](https://github.com/Nicole-Medina/github-readme-activity-graph)
 
 ---
-<h6>
+<h4>
 Olá! Me chamo Nicole, uma entusiasta na área de desenvolvimento com curso de ADS em andamento, e tenho me dedicado para me tornar uma dev fullstack! Minha paixão pela tecnologia me motiva a buscar conhecimento diariamente, me inspirando em colegas, acertando e errando, sempre em constante aprendizagem.
-</h6>
+</h4>
 
    <div align="center">
 
