@@ -7,7 +7,7 @@
 
    <div align="center">
 
-**Olá! Sou uma entusiasta na área de desenvolvimento com curso de ADS em andamento, e tenho me dedicado para alcançar o objetivo de me tornar uma dev fullstack! Minha paixão pela tecnologia me motiva a buscar conhecimento diariamente, me inspirando em colegas, acertando e errando, sempre em constante aprendizagem.**
+**Olá! Sou uma entusiasta na área de desenvolvimento com curso de ADS em andamento, e tenho me dedicado para alcançar o objetivo de me tornar uma dev fullstack! Minha paixão pela tecnologia foi semeada em meados de 2008, e na fase adulta pulei de paraquedas num curso de graduação na área, me sinto motivada a buscar conhecimento diariamente com a amplitude de possibilidades que a programação propõe, fazendo testes, me inspirando em colegas, acertando e errando, sem medo de tentar de novo!**
 <br>
 
 <div align="center">  
